@@ -1,0 +1,2 @@
+# MultiVideoChatWindowUI
+在多人音视频通话项目的背景下。我们需要会遇到房间人数增加或者减少的过程。在这个过程中通话窗口动态变化的过程可以使用此项目的MultiVideoChatLayout。
