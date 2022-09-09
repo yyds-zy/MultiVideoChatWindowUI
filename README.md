@@ -1,7 +1,7 @@
 # MultiVideoChatWindowUI
-在多人音视频通话项目的背景下。我们需要会遇到房间人数增加或者减少的过程。在这个过程中通话窗口动态变化的过程可以使用此项目的MultiVideoChatLayout。
+In the context of a multi-person audio and video call project. We need to encounter the process of increasing or decreasing the number of rooms. The process of dynamically changing the call window during this process can use the MultiVideoChatLayout of this project.
 
-## [视频效果](https://user-images.githubusercontent.com/26237728/189320010-aed3ac97-827a-43a1-8ec8-1f7a99ce4e22.mp4)
+## [video effect](https://user-images.githubusercontent.com/26237728/189320010-aed3ac97-827a-43a1-8ec8-1f7a99ce4e22.mp4)
 
 ### Usage
 ----
